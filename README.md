@@ -1,4 +1,4 @@
-### Part of my excercise at Udacity
+### A part of my study
 
 #testja
 ### Table of Contents
